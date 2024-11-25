@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Berkah Bakery</string>
+    <string name="search">Search</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="food">Food</string>
+    <string name="account">Account</string>
+    <string name="makanan">Food</string>
+
+    <string-array name="food_name">
+        <item>Macaroon</item>
+        <item>Cheesecake</item>
+        <item>Tiramisu</item>
+        <item>Creme_Brulee</item>
+        <item>Red Velvet Cake</item>
+        <item>Eggnog</item>
+        <item>Lemonade</item>
+        <item>Swedish Meatballs</item>
+        <item>Carbonara</item>
+    </string-array>
+
+    <string-array name="food_desc">
+        <item>Macaron adalah kue kering khas Perancis yang terbuat dari meringue atau busa putih telur dan gula, serta tepung almond.
+            Macaron memiliki tekstur renyah di luar dan lembut di dalam, serta mudah meleleh di mulut. Kue ini biasanya memiliki bentuk bulat dengan
+            bagian atas yang halus dan sedikit melengkung, bagian tepi yang bergelombang, dan bagian bawah yang rata.</item>
+
+        <item>Cheesecake  adalah kue yang umumnya dihidangkan sebagai dessert atau hidangan penutup.
+            Kue ini dibuat dengan mencampurkan beberapa bahan seperti keju, telur, susu, dan gula,
+            yang menghasilkan tekstur lembut dan rasa yang manis. Keju yang umum digunakan dalam membuat cheesecake adalah keju krim.</item>
+
+        <item>Tiramisu adalah makanan penutup rasa kopi yang berasal dari Italia. Tiramisu biasanya terbuat dari ladyfingers (savoiardi)
+            yang dicelupkan ke dalam kopi, lalu dilapisi dengan campuran kocokan telur, gula, dan keju mascarpone, serta ditaburi dengan bubuk kakao.</item>
+
+        <item>Creme Brulee dessert klasik dari Perancis ini identik dengan lapisan karamel gosong. Karamel gosong dihasilkan dari
+            taburan gula yang dibakar menggunakan blow torch. Custard creme brulee mempunyai bertekstur lembut dan rasa creamy.
+            Kelembutan tersebut didapatkan dari bahan utama creme brulee berupa whipped cream cair, susu, dan telur</item>
+
+        <item>Red velvet cake atau dalam bahasa Indonesia dikenal dengan bolu beludru merah/kue beludru merah adalah bolu lapis coklat berwarna merah,
+            cokelat kemerahan, atau kemerahan, yang dilapisi dengan keju krim putih. Resep-resep tradisional tidak memakai pewarna makanan,
+            dengan warna merah didapatkan dari bubuk cokelat yang mengandung antosianin. </item>
+
+        <item>Eggnog adalah minuman hangat yang kaya rasa dan sering dikaitkan dengan perayaan Natal.
+            Minuman ini memiliki tekstur lembut dan creamy, dibuat dari campuran kuning telur yang dikocok,
+            susu, gula, dan rempah-rempah seperti pala atau kayu manis. </item>
+
+        <item>Lemonade adalah minuman segar yang menyegarkan dahaga. Perpaduan manisnya gula dan asamnya
+            lemon menciptakan rasa yang unik dan disukai banyak orang. Minuman ini sempurna dinikmati saat cuaca panas atau sebagai teman bersantai.</item>
+
+        <item>Swedish meatball bola daging lezat khas Swedia. Dibuat dengan daging sapi cincang lembut dibentuk bulat sempurna,
+            lalu dimasak hingga kecokelatan. Disajikan dengan saus krim yang kaya rasa, kentang tumbuk lembut, dan selai
+            lingonberry yang sedikit asam manis. Perpaduan rasa yang unik dan menggugah selera.</item>
+
+        <item>Spaghetti Carbonara adalah hidangan pasta khas Italia yang dikenal dengan rasanya yang gurih dan creamy.
+            Hidangan ini terbuat dari spaghetti yang dicampur dengan saus telur, keju (biasanya Parmesan dan Pecorino Romano),
+            daging (biasanya guanciale atau bacon), dan lada hitam.</item>
+
+    </string-array>
+
+    <array name="food_photo">
+        <item>@drawable/macaroon</item>
+        <item>@drawable/cheesecake</item>
+        <item>@drawable/tiramisu</item>
+        <item>@drawable/creme_brulee</item>
+        <item>@drawable/red_velvet</item>
+        <item>@drawable/eggnog</item>
+        <item>@drawable/lemonade</item>
+        <item>@drawable/swedish_meatballs</item>
+        <item>@drawable/carbonara</item>
+
+    </array>
+</resources>
